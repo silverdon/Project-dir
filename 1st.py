@@ -1,6 +1,7 @@
 import os
 import shutil
-#adding comments ok
+#adding comments ok this was done at home.
+
 ifExists = True
 
 print(os.listdir('./ΩBlank/'))
