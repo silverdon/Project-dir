@@ -30,3 +30,4 @@ def create_dir():
 
 button = tkinter.Button(text="Create Directory", command=create_dir)
 button.pack()
+window.mainloop()
